@@ -1,0 +1,13 @@
+name: dhsvm-csdms
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - make
+  - cmake
+  - pkg-config
+  - cxx-compiler
+  - bmi-cxx
+  - babelizer
+  - libnetcdf
+  - xorg-libx11
